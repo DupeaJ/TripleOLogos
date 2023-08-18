@@ -46,6 +46,8 @@ license is a MIT license.
 
 <h2 align="center">Features</h2>
 you can select a shape, color, text and text color of a svg logo.
+A video demonstration is available [here](https://drive.google.com/file/d/1V2pJ8UWFlDz1pYfRwTqhXTwRmZQstx15/view).
+
 <img src="images/logo-svg-run.PNG" alt="screenshot" width="75%" height="75%">
 
 <h2 align="center"> How to Contribute</h2>
