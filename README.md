@@ -9,10 +9,15 @@ My task was to make a node application that makes a logo with a shape and some l
 
 ## Table of Contents
 
-- [Installation](##installation)
-- [Usage](##usage)
-- [Credits](##credits)
-- [License](##license)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Photos](#photos)
+- [Credits](#credits)
+- [License](#license)
+- [Features](#features)
+- [How to Contribute](#how-to-contribute)
+- [Tests](#tests)
+- [Questions](#questions)
 
 <h2 align="center"> Installation</h2>
 
